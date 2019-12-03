@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Home Page
+=======
 
-A data-driven personal website
-==========
-
-This is the About Me Page
+This is the Home Page
