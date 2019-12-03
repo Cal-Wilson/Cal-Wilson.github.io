@@ -1,22 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Home"
     url: /publications/
 
-  - title: "Talks"
+  - title: "About Cal"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Professional Resume"
+    url: /portfolio/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Academic CV"
+    url: /cv/
+    
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Guide"
     url: /markdown/
