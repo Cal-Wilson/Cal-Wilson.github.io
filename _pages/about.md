@@ -13,9 +13,11 @@ redirect_from:
 
 **Home Page will Contain:** 
 
-* Purpose of Page
+* Update(!)
 
-* Content (What will you find)
+* Purpose of Website
+
+* What kind of content will you find
 
 * How to navigate the page
 
