@@ -14,20 +14,20 @@ Education
 
 M.S. in Industrial Relations and Human Resources
 
-West Virginia University
+* West Virginia University
 
-GPA: 3.88			                                          
+* GPA: 3.88			                                          
 
-Graduation: May 2020
+* Graduation: May 2020
 
 
 B.S. Psychology
 
-West Virginia University
+* West Virginia University
 
-GPA: 3.21 							  
+* GPA: 3.21 							  
 
-Graduation: May 2017
+* Graduation: May 2017
 
 
 Work experience
