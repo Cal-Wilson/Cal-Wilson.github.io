@@ -5,10 +5,10 @@ main:
     url: /talks/    
 
   - title: "Professional Resume"
-    url: /portfolio/    
+    url: /cv/    
     
   - title: "Academic CV"
-    url: /cv/
+    url: /portfolio/
       
   - title: "Blog"
     url: /year-archive/
