@@ -11,10 +11,13 @@ redirect_from:
 
 
 
-This is the Home Page: 
-Purpose of Page
-Content (What will you find)
-How to navigate the page
+Home Page will Contain: 
+=======
+* Purpose of Page
+
+* Content (What will you find)
+
+* How to navigate the page
 
 
 
