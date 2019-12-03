@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Home Page
-=======
 
-This is the Home Page
+
+
+This is the Home Page: 
+*Purpose of Page
+*Content (What will you find)
+*How to navigate the page
+
+
+
