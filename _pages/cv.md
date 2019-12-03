@@ -94,7 +94,7 @@ Service Intern
 *	Facilitated event setup, execution and breakdown 
 
 
-**Montgomery County Coalition for the Homeless (MCCH)** June 2016 - July 2016, December 2016 - January 2017
+**Montgomery County Coalition for the Homeless (MCCH)** June 2016 - January 2017
 
 Intern/House Manager
 
