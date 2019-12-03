@@ -7,11 +7,8 @@ main:
   - title: "Professional Resume"
     url: /cv/    
     
-  - title: "Academic CV"
-    url: /portfolio/
-      
   - title: "Blog"
     url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+# title: "Guide"
+#  url: /markdown/
