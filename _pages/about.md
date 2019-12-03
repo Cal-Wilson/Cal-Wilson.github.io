@@ -11,8 +11,8 @@ redirect_from:
 
 
 
-Home Page will Contain: 
-=======
+**Home Page will Contain:** 
+
 * Purpose of Page
 
 * Content (What will you find)
