@@ -12,9 +12,9 @@ redirect_from:
 
 
 This is the Home Page: 
-*Purpose of Page
-*Content (What will you find)
-*How to navigate the page
+Purpose of Page
+Content (What will you find)
+How to navigate the page
 
 
 
