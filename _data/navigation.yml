@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Home"
-    url: /publications/
 
   - title: "About Cal"
     url: /talks/    
