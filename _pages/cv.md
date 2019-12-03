@@ -32,7 +32,7 @@ Graduation: May 2017
 
 Work experience
 ======
-####West Virginia University 
+**West Virginia University** 
 
 Graduate Teaching Assistant 	         
 
@@ -48,7 +48,7 @@ August 2018 – Present
 *	Educated through different mediums (online, in person, with videos)
 
 
-####Morgantown Brewing Company 
+**Morgantown Brewing Company** 
 
 Server/Bar Assistant  		 
 
@@ -62,7 +62,7 @@ June 2017 – Present
 *	Educated customers in brewing processes
 
 
-####JLG Industries Inc.
+**JLG Industries Inc.**
 
 Human Resources Intern 		                 
 
@@ -86,7 +86,7 @@ June 2019 – August 2019
 *	Conducted exit interviews for voluntary terminations
 
 
-####WVU’s Merit Badge University
+**WVU’s Merit Badge University**
 
 Service Intern 	      	      
 
@@ -102,7 +102,7 @@ December 2016 - February 2017
 *	Facilitated event setup, execution and breakdown 
 
 
-####Montgomery County Coalition for the Homeless (MCCH)
+**Montgomery County Coalition for the Homeless (MCCH)**
 
 Intern/House Manager
 
@@ -116,7 +116,7 @@ June 2016 - July 2016, December 2016 - January 2017
   
 Supplemental Experience
 ======
-####Federal Correctional Institute Mock Interviews 						     
+**Federal Correctional Institute Mock Interviews** 						     
 
 Fall & Spring 2018
 
@@ -124,7 +124,7 @@ Fall & Spring 2018
 *	Conducted mock interviews with over a dozen inmates to strengthen their interview skills for when they are released 
 
 
-####WVU GE Interview Competition 							       
+**WVU GE Interview Competition** 							       
 
 Fall 2018 & Spring 2019
 
@@ -134,7 +134,7 @@ Fall 2018 & Spring 2019
 *	Structured interview based on GE behavior-based questions
 
 
-####MSIR Recruitment Project										      
+**MSIR Recruitment Project**										      
 
 Fall 2018
 
@@ -143,11 +143,11 @@ Fall 2018
 *	Presented recruitment plan and results to the director of Graduate Admissions & Recruiting
 
 
-####WVU Individual Mood and Emotions Research Lab research assistant	        
+**WVU Individual Mood and Emotions Research Lab research assistant**        
 
 August 2017- May 2018
 
 
-####WVU Anxiety, Psychophysiology and Pain lab research assistant           
+**Anxiety, Psychophysiology and Pain lab research assistant**          
 
 September 2016- December 2017
