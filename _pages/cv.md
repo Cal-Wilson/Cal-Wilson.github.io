@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-M.S. in Industrial Relations and Human Resources
+M.S. in Industrial Relations (Human Resources)
 
 * West Virginia University
 
