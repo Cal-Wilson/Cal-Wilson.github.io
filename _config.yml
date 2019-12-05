@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cal Wilson"
-  avatar           : "/images/profile.png"
+  avatar           : "/files/profile.png"
   bio              : ""
   location         : "Currently in West Virginia"
   employer         : "West Virginia University"
