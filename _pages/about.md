@@ -24,7 +24,11 @@ To navigate the website, simply click on the above tabs to go to that page.
 
 **Contacts**
 
-If using a computer, contact information can be found on the left-hand side under the picture. If using a mobile device, contact information can be found by clicking the "Follow" button in the upper right-hand corner of the page. Feel free to send an email or request a connection on linkedIn using these links.
+If using a computer, contact information can be found on the left-hand side under the picture. 
+
+If using a mobile device, contact information can be found by clicking the "Follow" button in the upper right-hand corner of the page. 
+
+Feel free to send an email or request a connection on linkedIn using these links.
 
 
 
