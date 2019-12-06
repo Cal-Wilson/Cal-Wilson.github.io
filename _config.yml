@@ -84,7 +84,9 @@ author:
   avatar           : "/images/profile.png"
   bio              : ""
   location         : "Currently in West Virginia"
-  employer         : "West Virginia University"
+  employer         : "Employer: West Virginia" + "\n" + 
+                     "University & Morgantown"+ "\n" +
+                     "Brewing Company"
   pubmed           : 
   googlescholar    : 
   email            : "calwilson00@gmail.com"
