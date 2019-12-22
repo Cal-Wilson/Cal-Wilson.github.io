@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Link to Resume pdf]("Wilson_Resume.pdf")
 
+
+[Link to Resume pdf]("Wilson_Resume.pdf")
 
 Education
 ======
