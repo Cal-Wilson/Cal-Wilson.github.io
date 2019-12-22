@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Link to Resume pdf](www.resume.com)
+[Link to Resume pdf]("Wilson_Resume.pdf")
 
 
 Education
