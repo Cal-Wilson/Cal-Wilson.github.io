@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Link to Resume pdf](www.resume.com)
+
 
 Education
 ======
@@ -129,4 +131,4 @@ Supplemental Experience
 
 **Anxiety, Psychophysiology and Pain lab research assistant** September 2016- December 2017
 
-[Link to Resume pdf](www.resume.com)
+
