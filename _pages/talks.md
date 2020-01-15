@@ -13,7 +13,7 @@ redirect from:
 Cal was born and raised in Montgomey County, Maryland, just an hour outside of DC. He grew up in Olney, Maryland and attended Sherwood High School.  
 
 
-Cal swam on his local summer swim team for eight years and began training in Muy Tai in 2006. In 2009, Cal competed in the World Kickboxing Association K-1 Division in Virginia Beach, Virginia and won the championship to become the 135lb, under-18 WKA National Kickboxing Champion. Cal competed the following year to earn second place in the 145lb weight class. 
+Cal swam on his local summer swim team for eight years and began training in Muy Tai Kickboxing in 2006. In 2009, Cal competed in the World Kickboxing Association K-1 Division in Virginia Beach, Virginia and won the championship to become the 135lb, under-18 WKA National Kickboxing Champion. Cal competed the following year to earn second place in the 145lb weight class. 
 
 
 **High School Years**
