@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[Link to Resume pdf](https://www.Cal-Wilson.github.io/files/Wilson_Resume.pdf "")
+[Link to Resume pdf](https://Cal-Wilson.github.io/files/Wilson_Resume.pdf "")
 
 Education
 ======
