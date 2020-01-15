@@ -133,3 +133,6 @@ Supplemental Experience
 **Anxiety, Psychophysiology and Pain lab research assistant** September 2016- December 2017
 
 
+[`Link to Resume pdf`](https://Cal-Wilson.github.io/files/Wilson_Resume.pdf " ")
+
+
