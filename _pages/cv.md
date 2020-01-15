@@ -19,7 +19,7 @@ M.S. in Industrial Relations (Human Resources)
 
 * West Virginia University
 
-* GPA: 3.88			                                          
+* GPA: 3.92	                                          
 
 * Graduation: May 2020
 
@@ -109,12 +109,12 @@ Intern/House Manager
   
 Supplemental Experience
 ======
-**Federal Correctional Institute Mock Interviews** Fall & Spring 2018						     
+**Federal Correctional Institute Mock Interviews** Fall 2018 & Spring 2019						     
 
 *	Conducted mock interviews with over a dozen inmates to strengthen their interview skills for when they are released 
 
 
-**WVU GE Interview Competition** Fall 2018 & Spring 2019
+**WVU GE Interview Competition** Fall 2018, Spring 2019 & 2020
 
 *	Conducted mock interviews with over 20 undergraduate business students 
 
