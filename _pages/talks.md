@@ -29,6 +29,7 @@ Cal attended West Virginia University to earn a Bachelors of Science in Psycholo
 Cal returned to Morgantown in August of 2018 to attend West Virginia University for his Masters of Science in Industrial Relations (MSIR), a practical-based Human Resources Business Degree. He plans to graduate in May 2020 and become a strategic Human Resources Business Partner. He is interested in Talent Acquisition and Training/Development. He dreams to one day run his own consulting firm.  
 
 **Current Hobbies**
+
 Cal is learning to play guitar as well as working to improve his coding skills with Java and HTML. He enjoys working out, playing videogames and spending time with friends and family. 
 
 
