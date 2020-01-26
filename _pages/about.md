@@ -14,12 +14,12 @@ Welcome to Cal Wilson's Professional and Personal Website.
 
 **Purpose**
 
-The purpose of this website is to provide an introduction for potential employers to what Cal is all about, and update his friends with what he is currently doing. You will find various information about Cal throughout this website like his background, professional resume and a link to his monthly blog. 
+The purpose of this website is to provide an introduction for potential employers to who Cal is and what his interests are. You will find various information about Cal throughout this website like his background, professional resume and a link to his monthly blog. 
 
 
 **Navigation**
 
-To navigate the website, simply click on the above tabs to go to that page. 
+To navigate the website, simply click on the above tabs to go to that page. If operating on a mobile device, a dropdown menu of tabs can be accessed by clicking on a button with three lines on the top right of the page.  
 
 
 **Contacts**
