@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Welcome to Cal Wilson's Professional and Personal Website. 
+Welcome to Cal Wilson's Professional Website. 
 
 
 **Purpose**
